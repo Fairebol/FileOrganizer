@@ -2,7 +2,7 @@
 Hice este organizador para acomodar toda mi carpeta de descargar, disfrutenlo
 
 # Funcionalidades del Script:
-##✅ Organización automática:
+## ✅ Organización automática:
 Se guarda todo en las carpetas default de windows
 
 Imágenes (.png, .webp, .jpg, .gif, .jpeg) → Carpeta "Imágenes"
@@ -25,9 +25,9 @@ Otros archivos permanecen en Descargas
 
 # Para crear un ejecutable (.exe):
 ## usa: 
-
+```
 pip install pyinstaller
 pyinstaller --onefile file_organizer.py
-
+```
 ###Dentro de "dist/" hay un ejecutable ;)
 
