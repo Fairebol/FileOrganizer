@@ -29,5 +29,5 @@ Otros archivos permanecen en Descargas
 pip install pyinstaller
 pyinstaller --onefile file_organizer.py
 ```
-###Dentro de "dist/" hay un ejecutable ;)
+### Dentro de "dist/" hay un ejecutable ;)
 
