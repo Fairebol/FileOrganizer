@@ -4,11 +4,12 @@ Hice este organizador para acomodar toda mi carpeta de descargar, disfrutenlo
 # Funcionalidades del Script:
 ## ✅ Organización automática:
 Se guarda todo en las carpetas default de windows
-
+```
 Imágenes (.png, .webp, .jpg, .gif, .jpeg) → Carpeta "Imágenes"
 Videos (.mp4, .mov) → Carpeta "Videos"
 Música (.mp3, .opus) → Carpeta "Música"
 Otros archivos permanecen en Descargas
+```
 
 # Features
 * Log detallado - se crea un archivo .log con todas las operaciones realizadas
